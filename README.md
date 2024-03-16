@@ -1,5 +1,5 @@
 Diwali Sales Data Analysis
-Overview:
+*** Overview:
 This project encompasses data cleaning and exploratory data analysis (EDA) on Diwali sales data. Diwali, the festival of lights, is one of the most significant festivals celebrated in various parts of India and around the world. During this festive season, businesses often witness a surge in sales across different sectors. Analyzing sales data around Diwali can provide valuable insights into consumer behavior, market trends, and business performance.
 
 Features:
